@@ -4,7 +4,6 @@ import entity.UserType;
 import java.util.Scanner;
 
 public class Menu {
-
   Shop shop = new Shop();
   Scanner scanner = new Scanner(System.in);
 
